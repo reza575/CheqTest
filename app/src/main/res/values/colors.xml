@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F44336</color>
+    <color name="colorPrimaryDark">#E60F58</color>
+    <color name="colorAccent">#03A9F4</color>
+    <color name="black">#000000</color>
+    <color name="gray300">#E0E0E0</color>
+    <color name="gray200">#EEEEEE</color>
+    <color name="divarcolor">#A21212</color>
+    <color name="white">#ffffff</color>
+</resources>
